@@ -5,3 +5,4 @@ welcome to dayakar reddy
 recipies
 Adding 
 Multiplication
+DividingValues:6/2=3
