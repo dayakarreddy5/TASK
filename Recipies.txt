@@ -3,5 +3,5 @@
 welcome to dayakar reddy
 
 recipies
-Adding 
-Multiplication
+Adding Values :2+3=5
+Multiplication:2*3=6
